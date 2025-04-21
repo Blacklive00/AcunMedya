@@ -1,0 +1,14 @@
+C:\Users\Şükrü\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\net8.0\Basit Hesap Makinesi.exe
+C:\Users\Şükrü\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\net8.0\Basit Hesap Makinesi.deps.json
+C:\Users\Şükrü\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\net8.0\Basit Hesap Makinesi.runtimeconfig.json
+C:\Users\Şükrü\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\net8.0\Basit Hesap Makinesi.dll
+C:\Users\Şükrü\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\net8.0\Basit Hesap Makinesi.pdb
+C:\Users\Şükrü\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\Basit Hesap Makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şükrü\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\Basit Hesap Makinesi.AssemblyInfoInputs.cache
+C:\Users\Şükrü\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\Basit Hesap Makinesi.AssemblyInfo.cs
+C:\Users\Şükrü\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\Basit Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Şükrü\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\Basit Hesap Makinesi.dll
+C:\Users\Şükrü\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\refint\Basit Hesap Makinesi.dll
+C:\Users\Şükrü\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\Basit Hesap Makinesi.pdb
+C:\Users\Şükrü\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\Basit Hesap Makinesi.genruntimeconfig.cache
+C:\Users\Şükrü\source\repos\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\ref\Basit Hesap Makinesi.dll

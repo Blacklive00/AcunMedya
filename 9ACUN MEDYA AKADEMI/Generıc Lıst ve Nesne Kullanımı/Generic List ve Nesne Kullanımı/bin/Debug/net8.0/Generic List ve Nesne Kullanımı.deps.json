@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Generic List ve Nesne Kullanımı/1.0.0": {
+        "runtime": {
+          "Generic List ve Nesne Kullanımı.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generic List ve Nesne Kullanımı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

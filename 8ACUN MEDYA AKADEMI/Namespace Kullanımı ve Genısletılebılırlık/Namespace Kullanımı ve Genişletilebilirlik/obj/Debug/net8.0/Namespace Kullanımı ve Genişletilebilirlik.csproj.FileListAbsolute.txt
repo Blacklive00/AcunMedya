@@ -1,0 +1,15 @@
+C:\Users\Şükrü\source\repos\Namespace Kullanımı ve Genişletilebilirlik\Namespace Kullanımı ve Genişletilebilirlik\bin\Debug\net8.0\Namespace Kullanımı ve Genişletilebilirlik.exe
+C:\Users\Şükrü\source\repos\Namespace Kullanımı ve Genişletilebilirlik\Namespace Kullanımı ve Genişletilebilirlik\bin\Debug\net8.0\Namespace Kullanımı ve Genişletilebilirlik.deps.json
+C:\Users\Şükrü\source\repos\Namespace Kullanımı ve Genişletilebilirlik\Namespace Kullanımı ve Genişletilebilirlik\bin\Debug\net8.0\Namespace Kullanımı ve Genişletilebilirlik.runtimeconfig.json
+C:\Users\Şükrü\source\repos\Namespace Kullanımı ve Genişletilebilirlik\Namespace Kullanımı ve Genişletilebilirlik\bin\Debug\net8.0\Namespace Kullanımı ve Genişletilebilirlik.dll
+C:\Users\Şükrü\source\repos\Namespace Kullanımı ve Genişletilebilirlik\Namespace Kullanımı ve Genişletilebilirlik\bin\Debug\net8.0\Namespace Kullanımı ve Genişletilebilirlik.pdb
+C:\Users\Şükrü\source\repos\Namespace Kullanımı ve Genişletilebilirlik\Namespace Kullanımı ve Genişletilebilirlik\obj\Debug\net8.0\Namespace Kullanımı ve Genişletilebilirlik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şükrü\source\repos\Namespace Kullanımı ve Genişletilebilirlik\Namespace Kullanımı ve Genişletilebilirlik\obj\Debug\net8.0\Namespace Kullanımı ve Genişletilebilirlik.AssemblyInfoInputs.cache
+C:\Users\Şükrü\source\repos\Namespace Kullanımı ve Genişletilebilirlik\Namespace Kullanımı ve Genişletilebilirlik\obj\Debug\net8.0\Namespace Kullanımı ve Genişletilebilirlik.AssemblyInfo.cs
+C:\Users\Şükrü\source\repos\Namespace Kullanımı ve Genişletilebilirlik\Namespace Kullanımı ve Genişletilebilirlik\obj\Debug\net8.0\Namespace Kullanımı ve Genişletilebilirlik.csproj.CoreCompileInputs.cache
+C:\Users\Şükrü\source\repos\Namespace Kullanımı ve Genişletilebilirlik\Namespace Kullanımı ve Genişletilebilirlik\obj\Debug\net8.0\Namespace Kullanımı ve Genişletilebilirlik.sourcelink.json
+C:\Users\Şükrü\source\repos\Namespace Kullanımı ve Genişletilebilirlik\Namespace Kullanımı ve Genişletilebilirlik\obj\Debug\net8.0\Namespace Kullanımı ve Genişletilebilirlik.dll
+C:\Users\Şükrü\source\repos\Namespace Kullanımı ve Genişletilebilirlik\Namespace Kullanımı ve Genişletilebilirlik\obj\Debug\net8.0\refint\Namespace Kullanımı ve Genişletilebilirlik.dll
+C:\Users\Şükrü\source\repos\Namespace Kullanımı ve Genişletilebilirlik\Namespace Kullanımı ve Genişletilebilirlik\obj\Debug\net8.0\Namespace Kullanımı ve Genişletilebilirlik.pdb
+C:\Users\Şükrü\source\repos\Namespace Kullanımı ve Genişletilebilirlik\Namespace Kullanımı ve Genişletilebilirlik\obj\Debug\net8.0\Namespace Kullanımı ve Genişletilebilirlik.genruntimeconfig.cache
+C:\Users\Şükrü\source\repos\Namespace Kullanımı ve Genişletilebilirlik\Namespace Kullanımı ve Genişletilebilirlik\obj\Debug\net8.0\ref\Namespace Kullanımı ve Genişletilebilirlik.dll

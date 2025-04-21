@@ -1,0 +1,15 @@
+C:\Users\Şükrü\source\repos\Erişim Belirleyiciler ve Değişkenler\Erişim Belirleyiciler ve Değişkenler\bin\Debug\net8.0\Erişim Belirleyiciler ve Değişkenler.exe
+C:\Users\Şükrü\source\repos\Erişim Belirleyiciler ve Değişkenler\Erişim Belirleyiciler ve Değişkenler\bin\Debug\net8.0\Erişim Belirleyiciler ve Değişkenler.deps.json
+C:\Users\Şükrü\source\repos\Erişim Belirleyiciler ve Değişkenler\Erişim Belirleyiciler ve Değişkenler\bin\Debug\net8.0\Erişim Belirleyiciler ve Değişkenler.runtimeconfig.json
+C:\Users\Şükrü\source\repos\Erişim Belirleyiciler ve Değişkenler\Erişim Belirleyiciler ve Değişkenler\bin\Debug\net8.0\Erişim Belirleyiciler ve Değişkenler.dll
+C:\Users\Şükrü\source\repos\Erişim Belirleyiciler ve Değişkenler\Erişim Belirleyiciler ve Değişkenler\bin\Debug\net8.0\Erişim Belirleyiciler ve Değişkenler.pdb
+C:\Users\Şükrü\source\repos\Erişim Belirleyiciler ve Değişkenler\Erişim Belirleyiciler ve Değişkenler\obj\Debug\net8.0\Erişim Belirleyiciler ve Değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şükrü\source\repos\Erişim Belirleyiciler ve Değişkenler\Erişim Belirleyiciler ve Değişkenler\obj\Debug\net8.0\Erişim Belirleyiciler ve Değişkenler.AssemblyInfoInputs.cache
+C:\Users\Şükrü\source\repos\Erişim Belirleyiciler ve Değişkenler\Erişim Belirleyiciler ve Değişkenler\obj\Debug\net8.0\Erişim Belirleyiciler ve Değişkenler.AssemblyInfo.cs
+C:\Users\Şükrü\source\repos\Erişim Belirleyiciler ve Değişkenler\Erişim Belirleyiciler ve Değişkenler\obj\Debug\net8.0\Erişim Belirleyiciler ve Değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\Şükrü\source\repos\Erişim Belirleyiciler ve Değişkenler\Erişim Belirleyiciler ve Değişkenler\obj\Debug\net8.0\Erişim Belirleyiciler ve Değişkenler.sourcelink.json
+C:\Users\Şükrü\source\repos\Erişim Belirleyiciler ve Değişkenler\Erişim Belirleyiciler ve Değişkenler\obj\Debug\net8.0\Erişim Belirleyiciler ve Değişkenler.dll
+C:\Users\Şükrü\source\repos\Erişim Belirleyiciler ve Değişkenler\Erişim Belirleyiciler ve Değişkenler\obj\Debug\net8.0\refint\Erişim Belirleyiciler ve Değişkenler.dll
+C:\Users\Şükrü\source\repos\Erişim Belirleyiciler ve Değişkenler\Erişim Belirleyiciler ve Değişkenler\obj\Debug\net8.0\Erişim Belirleyiciler ve Değişkenler.pdb
+C:\Users\Şükrü\source\repos\Erişim Belirleyiciler ve Değişkenler\Erişim Belirleyiciler ve Değişkenler\obj\Debug\net8.0\Erişim Belirleyiciler ve Değişkenler.genruntimeconfig.cache
+C:\Users\Şükrü\source\repos\Erişim Belirleyiciler ve Değişkenler\Erişim Belirleyiciler ve Değişkenler\obj\Debug\net8.0\ref\Erişim Belirleyiciler ve Değişkenler.dll

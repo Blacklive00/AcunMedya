@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\acun medya\\11ACUN MEDYA AKADEMI\\11ACUN MEDYA AKADEMI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A64703B-6220-4427-BE44-A81F851ED7EF}|11ACUN MEDYA AKADEMI\\11ACUN MEDYA AKADEMI.csproj|c:\\users\\asus\\desktop\\acun medya\\11acun medya akademi\\11acun medya akademi\\11acun medya akademi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A64703B-6220-4427-BE44-A81F851ED7EF}|11ACUN MEDYA AKADEMI\\11ACUN MEDYA AKADEMI.csproj|solutionrelative:11acun medya akademi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A64703B-6220-4427-BE44-A81F851ED7EF}|11ACUN MEDYA AKADEMI\\11ACUN MEDYA AKADEMI.csproj|c:\\users\\asus\\desktop\\acun medya\\11acun medya akademi\\11acun medya akademi\\11acun medya akademi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A64703B-6220-4427-BE44-A81F851ED7EF}|11ACUN MEDYA AKADEMI\\11ACUN MEDYA AKADEMI.csproj|solutionrelative:11acun medya akademi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\11ACUN MEDYA AKADEMI\\11ACUN MEDYA AKADEMI\\11ACUN MEDYA AKADEMI\\Form1.cs",
+              "RelativeDocumentMoniker": "11ACUN MEDYA AKADEMI\\Form1.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\11ACUN MEDYA AKADEMI\\11ACUN MEDYA AKADEMI\\11ACUN MEDYA AKADEMI\\Form1.cs",
+              "RelativeToolTip": "11ACUN MEDYA AKADEMI\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:24:14.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\11ACUN MEDYA AKADEMI\\11ACUN MEDYA AKADEMI\\11ACUN MEDYA AKADEMI\\Form1.cs",
+              "RelativeDocumentMoniker": "11ACUN MEDYA AKADEMI\\Form1.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\11ACUN MEDYA AKADEMI\\11ACUN MEDYA AKADEMI\\11ACUN MEDYA AKADEMI\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "11ACUN MEDYA AKADEMI\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:18:29.505Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

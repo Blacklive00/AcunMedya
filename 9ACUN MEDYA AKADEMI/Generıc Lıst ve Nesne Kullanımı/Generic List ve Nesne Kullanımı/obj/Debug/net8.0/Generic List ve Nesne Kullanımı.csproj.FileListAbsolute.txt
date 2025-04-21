@@ -1,0 +1,15 @@
+C:\Users\Şükrü\source\repos\Generic List ve Nesne Kullanımı\Generic List ve Nesne Kullanımı\bin\Debug\net8.0\Generic List ve Nesne Kullanımı.exe
+C:\Users\Şükrü\source\repos\Generic List ve Nesne Kullanımı\Generic List ve Nesne Kullanımı\bin\Debug\net8.0\Generic List ve Nesne Kullanımı.deps.json
+C:\Users\Şükrü\source\repos\Generic List ve Nesne Kullanımı\Generic List ve Nesne Kullanımı\bin\Debug\net8.0\Generic List ve Nesne Kullanımı.runtimeconfig.json
+C:\Users\Şükrü\source\repos\Generic List ve Nesne Kullanımı\Generic List ve Nesne Kullanımı\bin\Debug\net8.0\Generic List ve Nesne Kullanımı.dll
+C:\Users\Şükrü\source\repos\Generic List ve Nesne Kullanımı\Generic List ve Nesne Kullanımı\bin\Debug\net8.0\Generic List ve Nesne Kullanımı.pdb
+C:\Users\Şükrü\source\repos\Generic List ve Nesne Kullanımı\Generic List ve Nesne Kullanımı\obj\Debug\net8.0\Generic List ve Nesne Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şükrü\source\repos\Generic List ve Nesne Kullanımı\Generic List ve Nesne Kullanımı\obj\Debug\net8.0\Generic List ve Nesne Kullanımı.AssemblyInfoInputs.cache
+C:\Users\Şükrü\source\repos\Generic List ve Nesne Kullanımı\Generic List ve Nesne Kullanımı\obj\Debug\net8.0\Generic List ve Nesne Kullanımı.AssemblyInfo.cs
+C:\Users\Şükrü\source\repos\Generic List ve Nesne Kullanımı\Generic List ve Nesne Kullanımı\obj\Debug\net8.0\Generic List ve Nesne Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Şükrü\source\repos\Generic List ve Nesne Kullanımı\Generic List ve Nesne Kullanımı\obj\Debug\net8.0\Generic List ve Nesne Kullanımı.sourcelink.json
+C:\Users\Şükrü\source\repos\Generic List ve Nesne Kullanımı\Generic List ve Nesne Kullanımı\obj\Debug\net8.0\Generic List ve Nesne Kullanımı.dll
+C:\Users\Şükrü\source\repos\Generic List ve Nesne Kullanımı\Generic List ve Nesne Kullanımı\obj\Debug\net8.0\refint\Generic List ve Nesne Kullanımı.dll
+C:\Users\Şükrü\source\repos\Generic List ve Nesne Kullanımı\Generic List ve Nesne Kullanımı\obj\Debug\net8.0\Generic List ve Nesne Kullanımı.pdb
+C:\Users\Şükrü\source\repos\Generic List ve Nesne Kullanımı\Generic List ve Nesne Kullanımı\obj\Debug\net8.0\Generic List ve Nesne Kullanımı.genruntimeconfig.cache
+C:\Users\Şükrü\source\repos\Generic List ve Nesne Kullanımı\Generic List ve Nesne Kullanımı\obj\Debug\net8.0\ref\Generic List ve Nesne Kullanımı.dll
