@@ -1,0 +1,17 @@
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\Attribute  Kişisel Bilgi Doğrulama\Attribute  Kişisel Bilgi Doğrulama\bin\Debug\net9.0-windows\Attribute  Kişisel Bilgi Doğrulama.exe
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\Attribute  Kişisel Bilgi Doğrulama\Attribute  Kişisel Bilgi Doğrulama\bin\Debug\net9.0-windows\Attribute  Kişisel Bilgi Doğrulama.deps.json
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\Attribute  Kişisel Bilgi Doğrulama\Attribute  Kişisel Bilgi Doğrulama\bin\Debug\net9.0-windows\Attribute  Kişisel Bilgi Doğrulama.runtimeconfig.json
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\Attribute  Kişisel Bilgi Doğrulama\Attribute  Kişisel Bilgi Doğrulama\bin\Debug\net9.0-windows\Attribute  Kişisel Bilgi Doğrulama.dll
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\Attribute  Kişisel Bilgi Doğrulama\Attribute  Kişisel Bilgi Doğrulama\bin\Debug\net9.0-windows\Attribute  Kişisel Bilgi Doğrulama.pdb
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\Attribute  Kişisel Bilgi Doğrulama\Attribute  Kişisel Bilgi Doğrulama\obj\Debug\net9.0-windows\Attribute__Kişisel_Bilgi_Doğrulama.Form1.resources
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\Attribute  Kişisel Bilgi Doğrulama\Attribute  Kişisel Bilgi Doğrulama\obj\Debug\net9.0-windows\Attribute  Kişisel Bilgi Doğrulama.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\Attribute  Kişisel Bilgi Doğrulama\Attribute  Kişisel Bilgi Doğrulama\obj\Debug\net9.0-windows\Attribute  Kişisel Bilgi Doğrulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\Attribute  Kişisel Bilgi Doğrulama\Attribute  Kişisel Bilgi Doğrulama\obj\Debug\net9.0-windows\Attribute  Kişisel Bilgi Doğrulama.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\Attribute  Kişisel Bilgi Doğrulama\Attribute  Kişisel Bilgi Doğrulama\obj\Debug\net9.0-windows\Attribute  Kişisel Bilgi Doğrulama.AssemblyInfo.cs
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\Attribute  Kişisel Bilgi Doğrulama\Attribute  Kişisel Bilgi Doğrulama\obj\Debug\net9.0-windows\Attribute  Kişisel Bilgi Doğrulama.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\Attribute  Kişisel Bilgi Doğrulama\Attribute  Kişisel Bilgi Doğrulama\obj\Debug\net9.0-windows\Attribute  Kişisel Bilgi Doğrulama.sourcelink.json
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\Attribute  Kişisel Bilgi Doğrulama\Attribute  Kişisel Bilgi Doğrulama\obj\Debug\net9.0-windows\Attribute  Kişisel Bilgi Doğrulama.dll
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\Attribute  Kişisel Bilgi Doğrulama\Attribute  Kişisel Bilgi Doğrulama\obj\Debug\net9.0-windows\refint\Attribute  Kişisel Bilgi Doğrulama.dll
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\Attribute  Kişisel Bilgi Doğrulama\Attribute  Kişisel Bilgi Doğrulama\obj\Debug\net9.0-windows\Attribute  Kişisel Bilgi Doğrulama.pdb
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\Attribute  Kişisel Bilgi Doğrulama\Attribute  Kişisel Bilgi Doğrulama\obj\Debug\net9.0-windows\Attribute  Kişisel Bilgi Doğrulama.genruntimeconfig.cache
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\Attribute  Kişisel Bilgi Doğrulama\Attribute  Kişisel Bilgi Doğrulama\obj\Debug\net9.0-windows\ref\Attribute  Kişisel Bilgi Doğrulama.dll
