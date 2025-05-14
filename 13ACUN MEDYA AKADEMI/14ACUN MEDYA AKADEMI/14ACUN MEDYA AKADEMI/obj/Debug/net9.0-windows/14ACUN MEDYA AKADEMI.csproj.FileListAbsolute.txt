@@ -1,0 +1,17 @@
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\bin\Debug\net9.0-windows\14ACUN MEDYA AKADEMI.exe
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\bin\Debug\net9.0-windows\14ACUN MEDYA AKADEMI.deps.json
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\bin\Debug\net9.0-windows\14ACUN MEDYA AKADEMI.runtimeconfig.json
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\bin\Debug\net9.0-windows\14ACUN MEDYA AKADEMI.dll
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\bin\Debug\net9.0-windows\14ACUN MEDYA AKADEMI.pdb
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\obj\Debug\net9.0-windows\_14ACUN_MEDYA_AKADEMI.Form1.resources
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\obj\Debug\net9.0-windows\14ACUN MEDYA AKADEMI.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\obj\Debug\net9.0-windows\14ACUN MEDYA AKADEMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\obj\Debug\net9.0-windows\14ACUN MEDYA AKADEMI.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\obj\Debug\net9.0-windows\14ACUN MEDYA AKADEMI.AssemblyInfo.cs
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\obj\Debug\net9.0-windows\14ACUN MEDYA AKADEMI.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\obj\Debug\net9.0-windows\14ACUN MEDYA AKADEMI.sourcelink.json
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\obj\Debug\net9.0-windows\14ACUN MEDYA AKADEMI.dll
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\obj\Debug\net9.0-windows\refint\14ACUN MEDYA AKADEMI.dll
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\obj\Debug\net9.0-windows\14ACUN MEDYA AKADEMI.pdb
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\obj\Debug\net9.0-windows\14ACUN MEDYA AKADEMI.genruntimeconfig.cache
+C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\14ACUN MEDYA AKADEMI\obj\Debug\net9.0-windows\ref\14ACUN MEDYA AKADEMI.dll

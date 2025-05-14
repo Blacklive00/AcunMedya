@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Employe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>enes</Name>
+  <Phone>şahin</Phone>
+  <DoB>2026-05-29T10:42:03.122</DoB>
+  <Department>bp</Department>
+  <Salary>5000</Salary>
+  <AdditionalInfo>serileşme istiyoruz </AdditionalInfo>
+</Employe>

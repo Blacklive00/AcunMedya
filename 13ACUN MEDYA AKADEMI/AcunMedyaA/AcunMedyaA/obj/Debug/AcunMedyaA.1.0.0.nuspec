@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AcunMedyaA</id>
+    <version>1.0.0</version>
+    <authors>AcunMedyaA</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="1abef7536cdea8bf57181ef6c904d7ab139c9c62" />
+    <dependencies>
+      <group targetFramework="net9.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net9.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\AcunMedyaA\AcunMedyaA\bin\Debug\net9.0-windows\AcunMedyaA.runtimeconfig.json" target="lib\net9.0-windows7.0\AcunMedyaA.runtimeconfig.json" />
+    <file src="C:\Users\asus\Desktop\acun medya\13ACUN MEDYA AKADEMI\AcunMedyaA\AcunMedyaA\bin\Debug\net9.0-windows\AcunMedyaA.dll" target="lib\net9.0-windows7.0\AcunMedyaA.dll" />
+  </files>
+</package>
