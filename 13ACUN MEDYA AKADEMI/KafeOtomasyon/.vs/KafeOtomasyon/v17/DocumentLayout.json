@@ -1,0 +1,911 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.bll\\kullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.bll\\kullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\admin\\kullaniciekleform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\admin\\kullaniciekleform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\masa\\masaekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\masa\\masaekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\masa\\masaekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\masa\\masaekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.dal (data access layer - veri eri\u015Fim katman\u0131)\\context (db ba\u011Flant\u0131 ve konfig\u00FCrasyon s\u0131n\u0131f\u0131)\\kafedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.dal (data access layer - veri eri\u015Fim katman\u0131)\\context (db ba\u011Flant\u0131 ve konfig\u00FCrasyon s\u0131n\u0131f\u0131)\\kafedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\siparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\siparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\admin\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\admin\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\admin\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\admin\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\masa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\masa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\personel\\siparisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\personel\\siparisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\olayyoneticisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\olayyoneticisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\personel\\siparisform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\personel\\siparisform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\personel\\siparisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\personel\\siparisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\admin\\raporlarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\admin\\raporlarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\admin\\kullaniciekleform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\admin\\kullaniciekleform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\odemeturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\odemeturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\admin\\adminmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\admin\\adminmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\admin\\kullaniciekleform2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\admin\\kullaniciekleform2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\enums\\yetkitipi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\enums\\yetkitipi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\admin\\raporlarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\admin\\raporlarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\services\\siparisraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\services\\siparisraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\services\\raporservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\services\\raporservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\satis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\satis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\masa\\masaekleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\masa\\masaekleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.dal (data access layer - veri eri\u015Fim katman\u0131)\\repository\\siparisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.dal (data access layer - veri eri\u015Fim katman\u0131)\\repository\\siparisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.dal (data access layer - veri eri\u015Fim katman\u0131)\\repository\\kullanicirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.dal (data access layer - veri eri\u015Fim katman\u0131)\\repository\\kullanicirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\stok\\stokekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\stok\\stokekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\stok\\stokekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\stok\\stokekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.dal (data access layer - veri eri\u015Fim katman\u0131)\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.dal (data access layer - veri eri\u015Fim katman\u0131)\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.dal (data access layer - veri eri\u015Fim katman\u0131)\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.dal (data access layer - veri eri\u015Fim katman\u0131)\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\urun2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\urun2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\siparisdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\siparisdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\kullanicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.entities (model s\u0131n\u0131flar\u0131 - veri taban\u0131 tablolar\u0131)\\models\\kullanicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.bll\\validations\\kullanicivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.bll\\validations\\kullanicivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.core\\helpers\\kullanicimappinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.core\\helpers\\kullanicimappinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.core\\helpers\\yetkihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.core\\helpers\\yetkihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.core\\dtos\\urundto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.core\\dtos\\urundto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.core\\dtos\\siparisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.core\\dtos\\siparisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.bll\\yedekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.bll\\yedekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.bll\\raporupdfolarakkaydet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.bll\\raporupdfolarakkaydet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.bll\\logging\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.bll\\logging\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\personel\\personelmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\personel\\personelmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\personel\\personelmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\personel\\personelmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\urun\\urunekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\urun\\urunekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|c:\\users\\asus\\desktop\\acun medya\\13acun medya akademi\\kafeotomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\urun\\urunekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\urun\\urunekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\kafeotomasyon\\kafeotomasyon.ui\\forms\\urun\\urunlisteleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{051C77A7-3950-4EBB-AABA-4D959695477D}|KafeOtomasyon\\KafeOtomasyon.csproj|solutionrelative:kafeotomasyon\\kafeotomasyon.ui\\forms\\urun\\urunlisteleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MasaEkleForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\masa\\MasaEkleForm.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\masa\\MasaEkleForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\masa\\MasaEkleForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\masa\\MasaEkleForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:16:52.452Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RaporlarForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\RaporlarForm.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\RaporlarForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\RaporlarForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\RaporlarForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:57:16.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminMainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\AdminMainForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\AdminMainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\AdminMainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:07:56.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\App.config",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\App.config",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\App.config",
+              "RelativeToolTip": "KafeOtomasyon\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-16T16:16:10.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\Program.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\Program.cs",
+              "RelativeToolTip": "KafeOtomasyon\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:22:49.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KullaniciService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.BLL\\KullaniciService.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.BLL\\KullaniciService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.BLL\\KullaniciService.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.BLL\\KullaniciService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:43:53.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KullaniciEkleForm2.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\KullaniciEkleForm2.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\KullaniciEkleForm2.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\KullaniciEkleForm2.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\KullaniciEkleForm2.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAA9wFkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:32:42.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SiparisForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\SiparisForm.Designer.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\SiparisForm.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\SiparisForm.Designer.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\SiparisForm.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAawFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:40:05.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MasaEkleForm.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\masa\\MasaEkleForm.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\masa\\MasaEkleForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\masa\\MasaEkleForm.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\masa\\MasaEkleForm.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAAAJ4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:13:34.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KafeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\Context (Db ba\u011Flant\u0131 ve konfig\u00FCrasyon s\u0131n\u0131f\u0131)\\KafeDbContext.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\Context (Db ba\u011Flant\u0131 ve konfig\u00FCrasyon s\u0131n\u0131f\u0131)\\KafeDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\Context (Db ba\u011Flant\u0131 ve konfig\u00FCrasyon s\u0131n\u0131f\u0131)\\KafeDbContext.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\Context (Db ba\u011Flant\u0131 ve konfig\u00FCrasyon s\u0131n\u0131f\u0131)\\KafeDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:59:17.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\AdminMainForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\AdminMainForm.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\AdminMainForm.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAqwIkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:42:57.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Kullanici.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Kullanici.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Kullanici.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:48:28.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Siparis.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Siparis.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Siparis.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Siparis.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Siparis.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:02:54.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Masa.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Masa.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Masa.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Masa.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Masa.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:22:01.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OlayYoneticisi.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\OlayYoneticisi.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\OlayYoneticisi.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\OlayYoneticisi.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\OlayYoneticisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:47:48.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SiparisForm.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\SiparisForm.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\SiparisForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\SiparisForm.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\SiparisForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:41:55.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SiparisForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\SiparisForm.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\SiparisForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\SiparisForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\SiparisForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:25:24.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KullaniciEkleForm2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\KullaniciEkleForm2.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\KullaniciEkleForm2.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\KullaniciEkleForm2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\KullaniciEkleForm2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:32:37.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OdemeTuru.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\OdemeTuru.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\OdemeTuru.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\OdemeTuru.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\OdemeTuru.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:01:37.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminMainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\AdminMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\AdminMainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\AdminMainForm.Designer.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\AdminMainForm.Designer.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAMwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:02:51.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KullaniciEkleForm2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\KullaniciEkleForm2.Designer.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\KullaniciEkleForm2.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\KullaniciEkleForm2.Designer.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\KullaniciEkleForm2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:34:04.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "YetkiTipi.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Enums\\YetkiTipi.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Enums\\YetkiTipi.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Enums\\YetkiTipi.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Enums\\YetkiTipi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:37:22.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RaporlarForm.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\RaporlarForm.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\RaporlarForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\RaporlarForm.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\admin\\RaporlarForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:57:20.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "KafeOtomasyon\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:33:45.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SiparisRaporu.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Services\\SiparisRaporu.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Services\\SiparisRaporu.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Services\\SiparisRaporu.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Services\\SiparisRaporu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:35:46.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RaporService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Services\\RaporService.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Services\\RaporService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Services\\RaporService.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Services\\RaporService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:37:21.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "KafeOtomasyon\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:33:44.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Satis.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Satis.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Satis.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Satis.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Satis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:24:52.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "KafeOtomasyon",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.csproj",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.csproj",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.csproj",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T16:15:52.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MasaEkleForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\masa\\MasaEkleForm.Designer.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\masa\\MasaEkleForm.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\masa\\MasaEkleForm.Designer.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\masa\\MasaEkleForm.Designer.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAADwv60AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:10:03.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:03:57.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAMwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:55:53.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SiparisRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\repository\\SiparisRepository.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\repository\\SiparisRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\repository\\SiparisRepository.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\repository\\SiparisRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:53:25.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:10:24.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "KullaniciRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\repository\\KullaniciRepository.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\repository\\KullaniciRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\repository\\KullaniciRepository.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\repository\\KullaniciRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:52:31.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\repository\\Repository.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\repository\\Repository.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:51:08.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StokEkleForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\stok\\StokEkleForm.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\stok\\StokEkleForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\stok\\StokEkleForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\stok\\StokEkleForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:37:35.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StokEkleForm.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\stok\\StokEkleForm.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\stok\\StokEkleForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\stok\\StokEkleForm.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\stok\\StokEkleForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:03:18.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\repository\\IRepository.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.DAL (Data Access Layer - Veri Eri\u015Fim Katman\u0131)\\repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:49:58.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SiparisDetay.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\SiparisDetay.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\SiparisDetay.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\SiparisDetay.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\SiparisDetay.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:03:14.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Kullanicilar.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Kullanicilar.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Kullanicilar.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Kullanicilar.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Kullanicilar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:28:05.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "YetkiHelper.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Core\\Helpers\\YetkiHelper.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.Core\\Helpers\\YetkiHelper.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Core\\Helpers\\YetkiHelper.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.Core\\Helpers\\YetkiHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:38:48.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Urun2.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Urun2.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Urun2.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Urun2.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.Entities (Model s\u0131n\u0131flar\u0131 - Veri Taban\u0131 Tablolar\u0131)\\Models\\Urun2.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:42:08.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "KullaniciMappingHelper.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Core\\Helpers\\KullaniciMappingHelper.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.Core\\Helpers\\KullaniciMappingHelper.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Core\\Helpers\\KullaniciMappingHelper.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.Core\\Helpers\\KullaniciMappingHelper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAwwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:47:46.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UrunDTO.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Core\\DTOs\\UrunDTO.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.Core\\DTOs\\UrunDTO.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Core\\DTOs\\UrunDTO.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.Core\\DTOs\\UrunDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:42:54.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "KullaniciValidator.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.BLL\\Validations\\KullaniciValidator.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.BLL\\Validations\\KullaniciValidator.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.BLL\\Validations\\KullaniciValidator.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.BLL\\Validations\\KullaniciValidator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAywBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:59:30.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SiparisDTO.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Core\\DTOs\\SiparisDTO.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.Core\\DTOs\\SiparisDTO.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.Core\\DTOs\\SiparisDTO.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.Core\\DTOs\\SiparisDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:43:48.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Yedekleme.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.BLL\\Yedekleme.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.BLL\\Yedekleme.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.BLL\\Yedekleme.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.BLL\\Yedekleme.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:27:23.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RaporuPdfOlarakKaydet.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.BLL\\RaporuPdfOlarakKaydet.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.BLL\\RaporuPdfOlarakKaydet.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.BLL\\RaporuPdfOlarakKaydet.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.BLL\\RaporuPdfOlarakKaydet.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:21:36.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.BLL\\Logging\\FileLogger.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.BLL\\Logging\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.BLL\\Logging\\FileLogger.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.BLL\\Logging\\FileLogger.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:52:59.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "KafeOtomasyon.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.csproj",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.csproj",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.csproj",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T11:52:07.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PersonelMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\PersonelMainForm.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\PersonelMainForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\PersonelMainForm.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\PersonelMainForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:07:40.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UrunEkleForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\Urun\\UrunEkleForm.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\Urun\\UrunEkleForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\Urun\\UrunEkleForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\Urun\\UrunEkleForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:39:35.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PersonelMainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\PersonelMainForm.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\PersonelMainForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\PersonelMainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\personel\\PersonelMainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:25:27.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UrunEkleForm.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\Urun\\UrunEkleForm.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\Urun\\UrunEkleForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\Urun\\UrunEkleForm.cs",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\Urun\\UrunEkleForm.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAUwMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:32:07.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UrunListeleForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\Urun\\UrunListeleForm.cs",
+              "RelativeDocumentMoniker": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\Urun\\UrunListeleForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\acun medya\\13ACUN MEDYA AKADEMI\\KafeOtomasyon\\KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\Urun\\UrunListeleForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KafeOtomasyon\\KafeOtomasyon.UI\\Forms\\Urun\\UrunListeleForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:45:31.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

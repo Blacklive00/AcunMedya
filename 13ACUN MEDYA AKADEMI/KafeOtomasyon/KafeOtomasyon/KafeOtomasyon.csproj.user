@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="KafeOtomasyon.UI\Forms\admin\AdminMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KafeOtomasyon.UI\Forms\admin\KullaniciEkleForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KafeOtomasyon.UI\Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KafeOtomasyon.UI\Forms\masa\MasaEkleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KafeOtomasyon.UI\Forms\personel\PersonelMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KafeOtomasyon.UI\Forms\personel\SiparisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KafeOtomasyon.UI\Forms\admin\RaporlarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KafeOtomasyon.UI\Forms\stok\StokEkleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KafeOtomasyon.UI\Forms\Urun\UrunEkleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KafeOtomasyon.UI\Forms\Urun\UrunListeleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
